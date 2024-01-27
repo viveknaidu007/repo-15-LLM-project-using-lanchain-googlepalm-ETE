@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3300,
+            "driver": "MySQL",
+            "name": "Local instance MySQL80",
+            "username": "root",
+            "database": "localhost"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3300,
+            "driver": "MySQL",
+            "database": "My SQL Workbench",
+            "name": "Local instance MySQL80",
+            "username": "root"
+        }
+    ]
+}
